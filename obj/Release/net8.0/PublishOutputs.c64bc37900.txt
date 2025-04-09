@@ -1,0 +1,7 @@
+/home/jesus/javc04092/bin/Release/net8.0/publish/javc04092
+/home/jesus/javc04092/bin/Release/net8.0/publish/appsettings.Development.json
+/home/jesus/javc04092/bin/Release/net8.0/publish/appsettings.json
+/home/jesus/javc04092/bin/Release/net8.0/publish/javc04092.dll
+/home/jesus/javc04092/bin/Release/net8.0/publish/javc04092.deps.json
+/home/jesus/javc04092/bin/Release/net8.0/publish/javc04092.runtimeconfig.json
+/home/jesus/javc04092/bin/Release/net8.0/publish/javc04092.pdb
